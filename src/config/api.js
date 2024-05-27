@@ -1,5 +1,5 @@
 import axios from "axios";
-export const API_BASE_URL = "http://localhost:8082";
+export const API_BASE_URL = "https://socialmediabackend-production-b718.up.railway.app";
 
 const jwt = localStorage.getItem("jwt");
 
